@@ -1,7 +1,6 @@
 # 202321006
 
-Your name
-
+김준서
 ## Description
 
 A short description of your project
