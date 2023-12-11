@@ -1,9 +1,9 @@
 # Project Title
 
-_Prepared by: [기말_고다희, 오혜진]_
+_Prepared by: [Group Name]_
 
-1. [고다희 202321001]
-2. [오혜진 202321012]
+1. [Name and Student ID]
+2. [Name and Student ID]
 
 
 ## Table of Contents
@@ -26,16 +26,18 @@ _Prepared by: [기말_고다희, 오혜진]_
 
 ## 1. Executive Summary
 
-- 컴퓨터로 피아노를 연주하는 프로그램 제작
+- Summarize the project's primary goals, intended outcomes, and problem it aims to solve. Keep it concise, ideally under 200 words.
 
 ## 2. Background
 
-- 
+- Introduce the context and problem your software aims to address.
+- Discuss its relevance and potential impact.
+- Briefly explain the rationale behind choosing this specific project.
 
 ## 3. Objectives
 
 - Detail your project’s SMART objectives.
-
+- Describe how the software will meet these objectives and solve the outlined problem.
 
 ## 4. Scope
 
@@ -51,7 +53,8 @@ _Prepared by: [기말_고다희, 오혜진]_
 
 ## 6. Budget
 
-- 
+- Provide a financial plan covering hardware, software, labor, and other costs.
+- Include a contingency plan for unexpected expenses.
 
 ## 7. System Architecture
 
